@@ -9,7 +9,6 @@ input.onButtonPressed(Button.B, function () {
 })
 let click = 0
 click = 0
-let r = 0
 basic.forever(function () {
     basic.showNumber(click)
 })
